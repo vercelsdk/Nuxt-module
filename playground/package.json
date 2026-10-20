@@ -8,6 +8,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "my-module": "file:..",
     "nuxt": "^4.6.2"
   }
